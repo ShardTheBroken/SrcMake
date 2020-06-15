@@ -1,0 +1,28 @@
+//
+// $FILE_NAME$
+// $AUTHOR$ $DATETIME$
+//
+
+#ifndef $HEADER_GUARD$
+#define $HEADER_GUARD$
+
+$INCLUDES$
+
+$NAMESPACE_BEGIN$
+
+class $NAME$ : $INHERITANCE$
+{
+public:
+	$VIRTUAL$ ~$NAME$();
+
+	static $NAME$ &getInstance();
+
+private:
+	$NAME$();
+	$NAME$( const $NAME$ & ) = delete;
+	$NAME$ &operator=( const $NAME$ & ) = delete;
+};
+
+$NAMESPACE_END$
+
+#endif

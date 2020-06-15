@@ -1,0 +1,9 @@
+// $FILE_NAME$ //
+
+pub mod $NAME$
+{
+	fn func()
+	{
+		println!( "Hello World!" );
+	}
+}

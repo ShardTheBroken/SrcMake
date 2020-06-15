@@ -1,0 +1,10 @@
+// $FILE_NAME$ //
+
+pub struct $NAME$
+{
+	
+}
+impl $NAME$
+{
+	
+}

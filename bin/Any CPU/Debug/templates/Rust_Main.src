@@ -1,0 +1,6 @@
+// $FILE_NAME$ //
+
+fn main()
+{
+	println!( "Hello World!" );
+}

@@ -1,0 +1,6 @@
+﻿// $FILE_NAME$ //
+
+pub trait $NAME$
+{
+	
+}

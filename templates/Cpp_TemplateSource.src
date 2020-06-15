@@ -1,0 +1,15 @@
+//
+// $FILE_NAME$
+// $AUTHOR$ $DATETIME$
+//
+
+$NAMESPACE_BEGIN$
+
+template<typename T>
+$NAME$<T>::$NAME$()
+{ }
+template<typename T>
+$NAME$<T>::~$NAME$()
+{ }
+
+$NAMESPACE_END$

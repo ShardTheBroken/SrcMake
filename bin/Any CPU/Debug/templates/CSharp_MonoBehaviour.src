@@ -1,0 +1,12 @@
+// $FILE_NAME$ //
+
+$USING_STATEMENTS$
+using UnityEngine;
+
+$NAMESPACE_BEGIN$
+$ACCESS$ $CLASS_MODIFIERS$ class $NAME$ $MB_INHERITANCE$
+{
+	public $NAME$()
+	{ }
+}
+$NAMESPACE_END$

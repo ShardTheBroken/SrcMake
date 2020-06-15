@@ -1,0 +1,14 @@
+// $FILE_NAME$ //
+
+$USING_STATEMENTS$
+
+$NAMESPACE_BEGIN$
+$ACCESS$ $CLASS_MODIFIERS$ class $NAME$ $INHERITANCE$
+{
+	static int Main( string[] args )
+	{
+		System.Console.WriteLine( "Hello World" );
+		return 0;
+	}
+}
+$NAMESPACE_END$
